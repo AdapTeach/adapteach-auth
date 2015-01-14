@@ -1,7 +1,7 @@
 {
   "name": "adapteach-auth",
   "version": "0.0.1",
-  "description": "Koa middleware adapteach auth generators",
+  "description": "Still don't know where this is going to lead...",
   "main": "index.js",
   "scripts": {
     "test": "gulp test"
@@ -14,5 +14,31 @@
   ],
   "author": "Charles Jacquin <charles.jacquin@autistici.org> (https://github.com/Charl---)",
   "license": "MIT",
-  "repository": ""
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-jshint": "*",
+    "jshint-stylish": "*",
+    "gulp-env": "0.2.0",
+    "gulp-nodemon": "*",
+    "gulp-mocha-co": "*",
+    "gulp-concat-util": "*",
+    "gulp-embedlr": "*",
+    "gulp-livereload": "*",
+    "gulp-util": "*",
+    "gulp-ng-annotate": "*",
+    "gulp-usemin": "*",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "*",
+    "gulp-copy": "*",
+    "gulp-uglify": "*",
+    "gulp-rev": "*",
+    "gulp-angular-templatecache": "*",
+    "gulp-sourcemaps": "*",
+    "gulp-ngdocs": "*",
+    "co-supertest": "git://github.com/avbel/co-supertest.git",
+    "should": "*",
+    "co-mocha": "~1"
+  }
 }
