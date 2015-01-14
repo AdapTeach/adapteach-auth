@@ -1,0 +1,18 @@
+{
+  "name": "adapteach-auth",
+  "version": "0.0.1",
+  "description": "Koa middleware adapteach auth generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "auth",
+    "jwt"
+  ],
+  "author": "Charles Jacquin <charles.jacquin@autistici.org> (https://github.com/Charl---)",
+  "license": "MIT",
+  "repository": ""
+}
