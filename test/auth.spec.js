@@ -18,7 +18,7 @@ describe('Test env', function () {
         var next = function () {
         };
 
-        //console.log(Auth);
+        console.log(Auth);
         //Auth.isAuthenticated(next);
     });
 

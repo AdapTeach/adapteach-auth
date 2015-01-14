@@ -8,4 +8,4 @@ container.register('Auth', require('../src/auth'));
 // STUB
 container.register('User', require('./stub/UserStub'));
 
-module.export = container;
+module.exports = container;
