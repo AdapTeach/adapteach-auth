@@ -1,6 +1,3 @@
-# learner-profile
-
-TODO : Make it a koa middleware
+# adapteach-auth
 
 Authentication service for adapteach apps
-
